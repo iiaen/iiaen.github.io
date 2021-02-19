@@ -21,14 +21,14 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tyforfeedback@gmail.com
   facebook:
   flickr:
-  github: iiaen
-  instagram:
   linkedin: iiaen
+  github: iiaen
+  email: tyforfeedback@gmail.com
+  instagram:
   pinterest:
-  rss: rss
+  rss: 
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
