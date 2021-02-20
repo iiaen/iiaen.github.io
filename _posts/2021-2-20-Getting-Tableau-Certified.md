@@ -26,7 +26,7 @@ I think it is possible to complete everything above in one weekend.
 ## Exam Tips
 - You get 2 hours to answer 36 questions. So you will probably finish with plenty of time left since not all of them are going to be hands-on questions. Personally I ran out of time during the mock exam (listed above). During the actual exam, I finished answering the questions before the first hour was up and then went back to check my answers with the extra time. 
 - It may take some time for the proctor to go through the setup process (I think mine took about 20 minutes as they were taking some time to verify I was only using one monitor). The countdown timer will only start when the setup is done so no worries there.
-- Keyboard shortcuts not recommended during the exam, this may be frustrating for long-time tableau users.
+- You will be warned not to use any keyboard shortcuts in the VM, this may be frustrating for long-time tableau users.
 - Labelling datasources (eg Superstore_No_Join, Superstore_InnerJoin_Budget) and the sheets (eg Q1, Q2) clearly. You may find the need to connect to the same source file but with different joining criteria (or none at all) for different questions.
 - I used Ethernet connection instead of WiFi and experienced no technical difficulties but I would suggest that you save the Tableau workbook from time to time if you intend to double check your answers at the end.
 
