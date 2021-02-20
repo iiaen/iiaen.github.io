@@ -32,5 +32,5 @@ I think it is possible to complete everything above in one weekend.
 
 
 ## Caution
-The pricetag is USD 250 after all so if you do not feel confident, the best thing to do would be to try to find more practice questions.
-
+- The pricetag is USD 250 after all so if you do not feel confident, the best thing to do would be to try to find more practice questions.
+- On the slip side, try not to be over-confident! Use online resources to check your answers for the technical questions even if you are just slightly unsure.
