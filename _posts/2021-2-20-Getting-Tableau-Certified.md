@@ -15,7 +15,7 @@ Here's what I did and all resources listed are free:
 3. Watch the free training videos. I watched maybe 60%-70% of the videos and did this with a browser extension to watch at 2x speed (or more) to save time.
 4. Practice on mock exams. I used two sites for this (only the free stuff): [here](https://learningtableau.com/practice-quizzes/) & [here](http://www.learntableau.technology/p/tableau-desktop-certified-associate.html).
 5. The `Visual Analysis Best Practices Guidebook` was also listed as one of the additional learning resources in the exam prep but personally I did not get any related questions during the exam. 
-6. I also read maybe 3 other blog posts to get a rough idea of what to expect.
+6. I also read around 3 other blog posts to get a rough idea of what to expect.
 
 Exam tips:
 - You get 2 hours to answer 36 questions. So you will probably finish with plenty of time left since not all of them are going to be hands-on questions. Personally I ran out of time during the mock exam (listed above). During the actual exam, I finished answering the questions before the first hour was up and then went back to check my answers with the extra time. 
