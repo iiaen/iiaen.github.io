@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /getting-started/
+permalink: /project_list/
 ---
 
 ### 01. Power BI Custom Viz
