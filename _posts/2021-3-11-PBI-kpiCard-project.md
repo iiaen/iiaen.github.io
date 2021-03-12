@@ -5,5 +5,9 @@ categories: [Projects, Power BI, Javascript]
 excerpt: Creating a PBI custom viz for KPI/BAN cards with pbiviz
 ---
 
--In Progress-
+-In Progress-  
+![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/PBI-kpiCard-sample.png "Samples")
 ![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/PBI-kpiCard-gif.gif "Test gif")
+
+
+
