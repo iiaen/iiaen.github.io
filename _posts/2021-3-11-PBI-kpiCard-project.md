@@ -12,8 +12,8 @@ However just providing a BAN (Big-Ass-Number) without any other comparisons or b
 2. benchmark against budgeted sales
 3. YTD sales if there are no separate card or tile
 4. for single same-store sales analysis, the mean or median sales of comparable stores to check if selected store is above or below average  
- 
-&nbsp;
+
+
 But building an entire row of KPIs with all of their corresponding benchmarks is quite a hassle in Power BI so I was intrigued when I came across this [tutorial](https://docs.microsoft.com/en-us/power-bi/developer/visuals/develop-circle-card). A custom viz would mean that creating and managing these KPIs would be easier! No more grouping elements together, setting up conditional formatting a dozen of times, resizing and moving tons of elements around whenever there is a change in layout or user requirements.  
 
 &nbsp; 
