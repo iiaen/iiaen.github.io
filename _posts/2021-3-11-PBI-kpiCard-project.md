@@ -15,7 +15,6 @@ However just providing a BAN (Big-Ass-Number) without any other comparisons or b
 
 But building an entire row of KPIs with all of their corresponding benchmarks is quite a hassle in Power BI so I was intrigued when I came across this [tutorial](https://docs.microsoft.com/en-us/power-bi/developer/visuals/develop-circle-card). A custom viz would mean that creating and managing these KPIs would be easier! No more grouping elements together, setting up conditional formatting a dozen of times, resizing and moving tons of elements around whenever there is a change in layout or user requirements.  
 
-<p>&nbsp;</p>
 This was my first foray into TypeScript/JacaScript, and this is a rough draft of the design specifications:
 - the 'KPI Card' will be made up of two rows, with the BAN on top and the benchmarks on the bottom row
 - can accept 1 to 3 benchmarks
