@@ -5,7 +5,7 @@ categories: [Projects, Power BI, TypeScript, JavaScript]
 excerpt: Creating a PBI custom viz for KPI/BAN cards with pbiviz
 ---
 
-The KPIs or BANs are the most important elements of any dashboard. [[Source]](https://www.tableau.com/about/blog/2017/6/eye-tracking-study-5-key-learnings-data-designers-everywhere-72395)  
+The **KPIs** or **BANs** are the most important elements of any dashboard. [[Source]](https://www.tableau.com/about/blog/2017/6/eye-tracking-study-5-key-learnings-data-designers-everywhere-72395)  
 
 However just providing a BAN (Big-Ass-Number) without any other comparisons or benchmarks will only be of limited use. For example the `monthly sales KPI` might include any combination of the following: 
 1. benchmark against previous period
