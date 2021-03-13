@@ -7,7 +7,7 @@ excerpt: Creating a PBI custom viz for KPI/BAN cards with pbiviz
 
 The KPIs or BANs are the most important elements of any dashboard. [[Source]](https://www.tableau.com/about/blog/2017/6/eye-tracking-study-5-key-learnings-data-designers-everywhere-72395)  
 
-However just providing a BAN (Big-Ass-Number) without any other comparisons or benchmarks will only be of limited use. For example the `monthly sales` KPI might include any combination of the following: 
+However just providing a BAN (Big-Ass-Number) without any other comparisons or benchmarks will only be of limited use. For example the `monthly sales KPI` might include any combination of the following: 
 1. benchmark against previous period
 2. benchmark against budgeted sales
 3. YTD sales if there are no separate card or tile
@@ -23,16 +23,15 @@ This was my first foray into TypeScript/JacaScript, and this is a rough draft of
 - the text colour of the benchmarks will have to be conditionally formatted
 - the benchmarks will each have their own prefixes. I usually use unicode symbols `e.g. 📅` but also will use text from time to time `e.g. PM`  
  
-&nbsp; 
-&nbsp; 
+<p>&nbsp;</p>
 This is how the end product looks like, `visualization fields` looks like that:  
 ![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/PBI-kpiCard-fields.png "Visualization Fields")  
 The main BAN measure field goes in the ` measure data` section while the benchmarks can go into the `Comparison 1`,  `Comparison 2` and `Comparison 3` sections. I haven't figured out how to hide the 'Category Data' yet. 
   
-&nbsp;   
+<p>&nbsp;</p>
 The `formatting pane` looks like this, with font size controls and options for colour coding and number formatting:  
 ![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/PBI-kpiCard-gif.gif "Formatting Pane")  
   
-&nbsp;   
+<p>&nbsp;</p>
 Here are a few cards that were made with the custom viz:  
 ![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/PBI-kpiCard-sample.png "Samples")
