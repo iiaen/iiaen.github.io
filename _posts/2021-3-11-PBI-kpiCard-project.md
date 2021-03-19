@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Making your own custom viz for Power BI with pbiviz
+title: Building your own custom viz for Power BI with pbiviz
 categories: [Projects, Power BI, TypeScript, JavaScript]
-excerpt: Creating a PBI custom viz for KPI/BAN cards with pbiviz
+excerpt: KPIs or BANs are the most important elements of any dashboard, what can do you when the default KPI viz in Power BI does not meet your requirements?
 ---
 
 The **KPIs** or **BANs** are the most important elements of any dashboard. [[Source]](https://www.tableau.com/about/blog/2017/6/eye-tracking-study-5-key-learnings-data-designers-everywhere-72395)  
