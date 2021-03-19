@@ -14,10 +14,8 @@ layout: default
         <div class="post-tags">
             {% assign categories = post.categories %}
             {% for category in categories %}
-              {% if category != "" %}
                 <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
                 {% unless forloop.last %}&nbsp;{% endunless %}
-              {% endif %}
             {% endfor %}
         </div>
       <div class="entry">
