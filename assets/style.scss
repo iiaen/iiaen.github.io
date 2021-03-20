@@ -185,11 +185,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #4CAF50;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #4CAF50;
   }
 }
 
@@ -359,7 +359,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #4CAF50;
     }
   }
 }
@@ -380,12 +380,12 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.75em 0 1.75em -2.2em;
-    border-left: #4CAF50 0.4em solid;
-    padding: 0 0 0 1.75em;
+    margin: 1.5em 0;
+    border-left: #4CAF50 0.2em solid;
+    padding: 0.1em 1em;
     /*color: $gray;*/
     /*font-size: 22px;*/
-    /*font-style: italic;*/
+    font-style: italic;
     /*background-color: #ede1ff;*/
   }
 
