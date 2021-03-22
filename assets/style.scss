@@ -472,10 +472,19 @@ body:after {
   line-height: 1.2;
 }
 
+.page h3{
+  font-family: "Space Mono";
+  text-align: left;
+  /*font-weight: bold;*/
+  font-kerning: auto;
+  font-feature-settings: "kern","liga","dlig","hlig","cswh";
+  line-height: 1.2;
+}
+
 .author_title{
   text-align: center;
   font-family: "Space Mono";
-  font-size: 10px;
+  font-size: 15px;
   color: #939aa1;
   letter-spacing: 2px;
 }
@@ -483,7 +492,7 @@ body:after {
 .post_date{
   text-align: center;
   font-family: "Space Mono";
-  font-size: 10px;
+  font-size: 13px;
   color: #939aa1;
 }
 
