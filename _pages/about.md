@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 **🏝️ Welcome**  
-Hi! I'm currently based in sunny Singapore and I help my clients implement data analytics projects. This space is intended for non-work related projects and blog entries about things that I have learnt or experimented with.  
+Hi! I'm currently based in sunny Singapore and I help my clients implement data analytics projects. This space is intended for non-work related projects and blog entries about things that I have learnt or experimented with. You can find [my profile](https://public.tableau.com/profile/jiaen/#!/) on Tableau Public.
   
   
   
