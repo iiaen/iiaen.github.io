@@ -25,6 +25,7 @@ There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com
 
 <p>&nbsp;</p>
 Notable Python packages that were used:  
+
 - yfinance : to get ticker data from Yahoo Finance
 - mplfinance : for making Candlestick charts
 - pandas : your standard dataframe manipulation stuff
