@@ -24,7 +24,6 @@ There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com
 20 6 * * * python3 /home/pi/telegram_windrunner/cleanup.py
 ```  
  
-<p>&nbsp;</p>  
 Notable Python packages that were used:
 - yfinance : to get ticker data from Yahoo Finance
 - mplfinance : for making Candlestick charts
