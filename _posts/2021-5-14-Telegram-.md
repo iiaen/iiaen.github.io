@@ -34,6 +34,6 @@ Notable Python packages that were used:
   
   
 ![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/WindrunnerMockup65.png "Mockup")    
-  
- This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
+<p>&nbsp;</p>  
+This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
   
