@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 📈 Receiving Automated Messages on Telegram
+title: Receiving Automated Messages on Telegram
 categories: [Projects, Python, Raspberry Pi]
-excerpt: Using Python and Raspberry Pi to receive scheduled messages
+excerpt: Using Python and Raspberry Pi to receive scheduled Telegram messages on stock portfolio 📈 
 ---
 
 So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi.  
 
-Using `python` and `cron` to automate collecting and sending the following info to myself via Telegram:
-- Insider purchases (info from SEC Form 4 filings)
+Using `python` and `cron` to automate the collection and message delivery of the following info to myself on Telegram:
+- Daily list of insider purchases (info from SEC Form 4 filings)
 - Daily price and volume metrics for a list of tickers, data from Yahoo Finance  
 - Candlestick chart for previous day MSFT price and volume data, in 5 minutes intervals  
 
