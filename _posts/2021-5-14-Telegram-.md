@@ -2,7 +2,7 @@
 layout: post
 title: Receiving Automated Messages on Telegram
 categories: [Projects, Python, Raspberry Pi]
-excerpt: Using Python and Raspberry Pi to receive scheduled Telegram messages on stock portfolio 📈 
+excerpt: Using Python and Raspberry Pi to receive scheduled Telegram messages on stock portfolio and insider purchases 📈 
 ---
 
 So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi.  
