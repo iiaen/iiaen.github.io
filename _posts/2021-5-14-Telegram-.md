@@ -5,10 +5,11 @@ categories: [Projects, Python, Raspberry Pi]
 excerpt: Using Python and Raspberry Pi to receive scheduled messages
 ---
 
-So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi. 
+So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi.   
 📱 This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
   
-
+  
+  
 Using `python` and `cron` to automate collecting and sending the following info to myself via Telegram:
 - Insider purchases (info from SEC Form 4 filings)
 - Daily price and volume metrics for a list of tickers, data from Yahoo Finance  
