@@ -13,7 +13,7 @@ Using `python` and `cron` to automate collecting and sending the following info 
 - Daily price and volume metrics for a list of tickers, data from Yahoo Finance  
 - Candlestick chart for previous day MSFT price and volume data, in 5 minutes intervals
 
-> There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com/iiaen/telegram_windrunner)
+There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com/iiaen/telegram_windrunner).
 ```
 0 6 * * * python3 /home/pi/telegram_windrunner/create_portfolio_png.py
 5 6 * * * python3 /home/pi/telegram_windrunner/create_openinsider_png.py
@@ -23,10 +23,10 @@ Using `python` and `cron` to automate collecting and sending the following info 
 ```
 
 Notable Python packages that were used:
-- yfinance :
+- yfinance : to get ticker data from Yahoo Finance
 - mplfinance : for making Candlestick charts
 - pandas : your standard dataframe manipulation stuff
 - bokeh : to save dataframes as png images
 - telethon : to send and receive messages on Telegram
 
-![Alt text](https://raw.githubusercontent.com/iiaen/telegram_windrunner/master/Sample.png "Mockup")  
+![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/WindrunnerMockup65.png "Mockup")  
