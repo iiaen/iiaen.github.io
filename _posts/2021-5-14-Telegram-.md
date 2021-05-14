@@ -15,7 +15,6 @@ Using `python` and `cron` to automate collecting and sending the following info 
 <p>&nbsp;</p>
 There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com/iiaen/telegram_windrunner).  
   
-  
 ```
 0 6 * * * python3 /home/pi/telegram_windrunner/create_portfolio_png.py
 5 6 * * * python3 /home/pi/telegram_windrunner/create_openinsider_png.py
