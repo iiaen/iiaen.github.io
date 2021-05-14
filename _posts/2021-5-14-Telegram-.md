@@ -8,13 +8,13 @@ excerpt: Using Python and Raspberry Pi to receive scheduled messages
 So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi. 
 📱 This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
   
-  
+<p>&nbsp;</p>  
 Using `python` and `cron` to automate collecting and sending the following info to myself via Telegram:
 - Insider purchases (info from SEC Form 4 filings)
 - Daily price and volume metrics for a list of tickers, data from Yahoo Finance  
 - Candlestick chart for previous day MSFT price and volume data, in 5 minutes intervals
   
-  
+<p>&nbsp;</p>
 There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com/iiaen/telegram_windrunner).
 ```
 0 6 * * * python3 /home/pi/telegram_windrunner/create_portfolio_png.py
@@ -22,9 +22,9 @@ There are 5 scheduled Cron tasks, scripts can be found [here](https://github.com
 10 6 * * * python3 /home/pi/telegram_windrunner/create_candlestick_png.py
 15 6 * * * python3 /home/pi/telegram_windrunner/send_image.py
 20 6 * * * python3 /home/pi/telegram_windrunner/cleanup.py
-```
-  
-  
+```  
+ 
+<p>&nbsp;</p>  
 Notable Python packages that were used:
 - yfinance : to get ticker data from Yahoo Finance
 - mplfinance : for making Candlestick charts
