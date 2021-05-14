@@ -2,7 +2,7 @@
 layout: post
 title: Passing Tableau Desktop Certified Associate exam for long-time Tableau users
 categories: [Tableau]
-excerpt: How I prepared for the Tableau Desktop CA exam
+excerpt: How I prepared for the Tableau Desktop CA exam 📚
 ---
 
 This post is meant for: 
