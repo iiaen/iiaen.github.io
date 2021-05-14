@@ -6,8 +6,7 @@ excerpt: Using Python and Raspberry Pi to receive scheduled messages
 ---
 
 So I bought a Raspberry Pi on Pi day!! Here's a belated post about my first use for the Pi.   
-📱 This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
-  
+
   
   
 Using `python` and `cron` to automate collecting and sending the following info to myself via Telegram:
@@ -33,4 +32,7 @@ Notable Python packages that were used:
 - telethon : to send and receive messages on Telegram
   
   
-![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/WindrunnerMockup65.png "Mockup")  
+![Alt text](https://raw.githubusercontent.com/iiaen/iiaen.github.io/master/images/post_images/WindrunnerMockup65.png "Mockup")    
+  
+ This is just for fun only! I don't really make any purchases based on these information since DCA (dollar-cost-averaging) suits my needs better. 
+  
